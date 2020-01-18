@@ -15,7 +15,7 @@ public class HomeWork5 {
 //			};
 //		Sortting a= new Sortting();
 //		System.out.println(a.maxElement(intArray));
-		
+		//test123
 			randomtest a =new randomtest();
 			a.genAuthCode();
 	}	
