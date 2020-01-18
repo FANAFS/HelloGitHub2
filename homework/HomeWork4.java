@@ -1,7 +1,7 @@
 package homework;
 import java.util.Scanner;
 public class HomeWork4 {
-
+	private int test =1;
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		/*第一題 
